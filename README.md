@@ -72,12 +72,12 @@ For example, if a student had the login name fun.frank then the appropriate file
 - [x] Zip file has all the required files. **NOTE:** If we can't build and run your game then you will receive a **Zero**x
 - [ ] The zip file submitted can be extracted and the sketch runs in Chrome with a local web server.
 - [x] Published the project on GitHub.
-- [x] The zip file contains a URL.txt that has the URL of your game.
+- [ ] The zip file contains a URL.txt that has the URL of your game.
 - [ ] Properly documented media files in a Media.md.
 - [ ] **All** Source Code has a proper header comment: Name, Project Name, Course Number, Term & Year. 
 - [x] Properly named zip file.
 - [x] Game Design Document
-- [ ] [**core**] Programming Concepts document
+- [x] [**core**] Programming Concepts document
 - [ ] [**core**] Implemented your own game using `p5.js`
 - [x] All requirements that are completed are checked off here by replacing the `[ ]` with `[x]`
 
